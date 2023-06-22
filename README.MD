@@ -1,0 +1,3 @@
+# JavaScript ES6 Film Projesi
+Kullanıcı bu projede formlar aracılığıyla film bilgilerini girebilir, film arşivini görsel formatında yükleyebilir. Girilen bilgiler ve yüklenen görseller local storage'a kaydedilip arayüz üzerinden kullanıcılara gösterilir. Kullanıcı dilerse eklediği filmleri tek tek silebilir ya da tümünü birden silebilir. Kullanıcı tümünü silmek istediğinde uyarı penceresi ekrana gelir. Kullanıcı onay verdiği takdirde tüm filmler silinir. ES6 standardı ve DOM manipülasyonu kullanılmıştır.
+<img src="image/readme.jpg">
